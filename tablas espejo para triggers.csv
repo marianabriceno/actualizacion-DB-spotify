@@ -1,0 +1,10 @@
+id_artist;album_name;nombre_art;año_public;duracion_total_album
+37;climb;queen ifrica;2017;1
+38;Return of the Dream Canteen;red hot chilli peppers;20227;1
+39;Despertar;zona ganjah;NULL;0
+;;;;
+#esta tabla fue creada para los triggers para actualizar los datos de la tabla albumes;;;;
+;;;;
+cant_de_me_gusta;;;;
+5992;;;;
+#esta tabla fue creada para actualizar los me gusta de las `playlist para los trigger;;;;

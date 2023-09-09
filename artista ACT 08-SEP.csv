@@ -1,0 +1,46 @@
+﻿id_artist;nombre_art
+1;wu tang clan
+2;ricardo arjona
+3;dann niggaz
+4;mariano civico
+5;rekeson
+6;shakira
+7;caramelos de cianuro
+8;guns n roses
+9;anakena
+10;umi
+11;erykah badu
+12;capleton
+13;konshens
+14;common
+15;micro tdh
+16;queen omega
+18;ke personajes
+19;blink 182
+20;orquesta mulenze
+21;gyptian
+22;serani
+23;bennie man
+24;sizzla
+25;fantan mojah
+26;jerry di
+27;fidel nadal
+28;king chango
+29;quasimoto
+30;adolescent's orquesta
+31;david pabon
+32;usher
+33;mos def
+34;old dirty bastard
+35;tito rojas
+36;ruben blades
+37;queen ifrica
+38;red hot chilli peppers
+39;id_artist
+41;id_artist
+45;id_artist
+50;id_artist
+80;id_artist
+81;NULL
+;
+#Los ide 39,41,45,50,80,81 fueron agregados en SP_INSERT_NEW_ARTISTA_ID;
